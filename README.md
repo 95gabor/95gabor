@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Kubernetes projects
 - 💬 Ask me about TypeScript, NodeJS, Angular, Kubernetes, IaC
-- 📫 How to reach me via email
+- 📫 Reach me via email
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=95gabor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
