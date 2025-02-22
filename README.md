@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on multiple project as a freelance developer mostly in React and NestJS
-- 🌱 I’m currently learning Deno and Rust
+- 🌱 I’m currently learning Deno and Kubernetes
 - 👯 I’m looking to collaborate on Kubernetes projects
 - 💬 Ask me about TypeScript, NodeJS, Angular, Kubernetes, IaC
 - 📫 Reach me via email
